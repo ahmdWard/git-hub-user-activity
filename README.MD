@@ -1,6 +1,6 @@
 # Git-hub user activity 
 
-simple solution for the <a href="https://roadmap.sh/projects/github-user-activity">roadmap.sh challenge</a>
+simple solution for  <a href="https://roadmap.sh/projects/github-user-activity">roadmap.sh challenge</a>
 
 # How to run 
 <hr>
